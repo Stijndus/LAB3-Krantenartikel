@@ -1,3 +1,19 @@
-body{
+body {
     background-color: lightblue;
+}
+
+.left {
+    float: left;
+    margin-right: 10px;
+    border: black;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.right {
+    float: right;
+    margin-left: 10px;
+    border: black;
+    border-style: solid;
+    border-width: 2px;
 }
